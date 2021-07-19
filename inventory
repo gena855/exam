@@ -1,0 +1,5 @@
+[dev]
+node01	ansible_host=172.31.34.57	ansible_user=wave
+
+[prod]
+node2	ansible_host=172.31.35.150	ansible_user=wave
